@@ -1,0 +1,41 @@
+# Translation of Themes - Grocery Shop in German (Switzerland)
+# This file is distributed under the same license as the Themes - Grocery Shop package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-29 13:46:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de_CH\n"
+"Project-Id-Version: Themes - Grocery Shop\n"
+
+#. Description of the theme
+msgid "Grocery Shop is a clean and well-designed e-commerce WordPress child theme of Grocery Store. It is very flexible and packed, including several theme options that make website development a breeze. It has a fluid and fully responsive layout design to guarantee that your visitors will have an excellent viewing experience each time they go to your website. It exists so that you can fast and efficiently craft powerful e-commerce websites across all niches and markets in a matter of minutes, without having to write a line of code. It is packed with great features that allow you to explore your creativity and build a unique website for your online store. It comes with a smooth combination of the WooCommerce plugin. The theme's main points are product search with category select, multiple sections on the front page, full width easy to use slider, the latest and featured product carousel, call to action, advertisement section, banners, and more."
+msgstr "Grocery Shop ist ein übersichtliches und schön gestaltetes E-Commerce-WordPress-Child-Theme von Grocery Store. Es ist sehr flexibel und voller Funktionen, einschließlich mehrerer Theme-Optionen, die die Website-Entwicklung zu einem Kinderspiel machen. Es hat ein fließend umbrechendes und vollständig responsives Layout-Design, um zu garantieren, dass deine Besucher jedes Mal, wenn sie auf deine Website gehen, ein ausgezeichnetes visuelles Erlebnis haben werden. Es existiert, damit du schnell und effizient leistungsstarke E-Commerce-Websites für alle Nischen und Märkte in wenigen Minuten erstellen kannst, ohne eine Zeile Code schreiben zu müssen. Das Child-Theme ist vollgepackt mit großartigen Funktionen, die es dir erlauben, deine Kreativität auszuleben und eine einzigartige Website für deinen Online-Shop zu erstellen. Es funktioniert reibungslos Kombination mit dem WooCommerce-Plugin. Die wichtigsten Punkte des Themes sind die Produktsuche mit Kategorieauswahl, mehrere Abschnitte auf der Startseite, ein einfach zu bedienender Slider in voller Breite, ein Karussell mit den neuesten und hervorgehobenen Produkten, einem Call-to-Action-Abschnitt, einem Abschnitt für Werbung, Bannern und mehr."
+
+#. Theme Name of the theme
+msgid "Grocery Shop"
+msgstr "Grocery Shop"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:55
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> bearbeiten"
+
+#: hook.php:121
+msgid "Shop By Department"
+msgstr "Einkaufen nach Kategorie"
+
+#: functions.php:30
+msgid "Default header image"
+msgstr "Standard-Header-Bild"
+
+#. Author URI of the theme
+msgid "https://athemeart.com/"
+msgstr "https://athemeart.com/"
+
+#. Author of the theme
+msgid "aThemeArt"
+msgstr "aThemeArt"
